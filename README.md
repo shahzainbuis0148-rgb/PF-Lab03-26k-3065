@@ -1,12 +1,18 @@
-# PF-Lab03-26k-3065
-Programming Fundamentals Lab 03
 # Programming Fundamentals Lab 03
 ## About Me
 My name is Shah Zain. I am a BS Software Engineering student.
 I am currently learning Programming Fundamentals and C programming.
+## My Goals
+1. Learn C programming
+2. Improve problem-solving skills
+3. Learn Git and GitHub
 
-## My Programming Interests
-I am interested in:
+## Programming Interests
 - C Programming
 - Software Development
--Python
+- Problem Solving
+- Web Development
+
+## My Goal
+
+***I am working hard to improve my programming skills.***
